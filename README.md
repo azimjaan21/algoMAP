@@ -50,7 +50,7 @@ I will also Share insights, solutions, and other topics like AI and ML on my tel
 ## 🌟 Progress Highlights
 
 ### First Milestone: **Complete Arrays & Strings Problems**
-- [ ] Problem 1:   #2239 Find Closest Number to Zero
+- [✅] Problem 1:   #2239 Find Closest Number to Zero
       
  ![image](https://github.com/user-attachments/assets/66a67983-853d-480e-9691-8a81f4cf73a4)
 
