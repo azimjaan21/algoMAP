@@ -1,11 +1,11 @@
 from typing import List
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:
-        closest = nums[0]
+        num2zero = nums[0]
         for x in nums:
-            if abs(x) < abs(closest):
-                closest = x
-            if closest > 0 and abs(closest) in nums:
-                return abs(closest)
+            if abs(x) < abs(num2zero):
+                num2zero = x
+            if num2zero > 0 and abs(num2zero) in nums:
+                return abs(num2zero)
             else:
-                return closest
+                return num2zero
