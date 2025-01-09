@@ -10,7 +10,7 @@ Welcome to my algorithmic journey through **Data Structures and Algorithms (DSA)
 
 | Topic                   | Problems Solved | Total Problems |
 |-------------------------|-----------------|----------------|
-| Arrays & Strings        | 2               | 11             |
+| Arrays & Strings        | ✅2               | 11             |
 | Hashmaps & Sets         | 0               | 10             |
 | Two Pointers            | 0               | 7              |
 | Stacks                  | 0               | 5              |
