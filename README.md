@@ -64,7 +64,8 @@ I will also Share insights, solutions, and other topics like AI and ML on my tel
 
 - [✅] Problem 4:  #48 Rotate Image
 
-![image](https://github.com/user-attachments/assets/e07ae1ad-5246-4407-8b32-cd930a06bed0)
+![image](https://github.com/user-attachments/assets/9b930881-6198-4f49-a6db-8e52eb64492e)
+
 
 
 
