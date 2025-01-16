@@ -10,7 +10,7 @@ Welcome to my algorithmic journey through **Data Structures and Algorithms (DSA)
 
 | Topic                   | Problems Solved | Total Problems |
 |-------------------------|-----------------|----------------|
-| Arrays & Strings        | ✅2               | 11             |
+| Arrays & Strings        | ✅3               | 11             |
 | Hashmaps & Sets         | 0               | 10             |
 | Two Pointers            | 0               | 7              |
 | Stacks                  | 0               | 5              |
@@ -49,12 +49,16 @@ I will also Share insights, solutions, and other topics like AI and ML on my tel
 
 ## 🌟 Progress Highlights
 
-### First Milestone: **Complete Arrays & Strings Problems**
+### First Milestone: **Arrays & Strings Problems**
 - [✅] Problem 1:   #2239 Find Closest Number to Zero
       
  ![image](https://github.com/user-attachments/assets/66a67983-853d-480e-9691-8a81f4cf73a4)
 
 - [✅] Problem 2:  #56 Merge Intervals
+
+![image](https://github.com/user-attachments/assets/b99b8750-8511-4f6c-b746-2c0620a673d3)
+
+- [✅] Problem 3:  #13 Roman to Numbers
 
 ![image](https://github.com/user-attachments/assets/b99b8750-8511-4f6c-b746-2c0620a673d3)
 
