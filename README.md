@@ -6,11 +6,11 @@ Welcome to my algorithmic journey through **Data Structures and Algorithms (DSA)
 
 ## 🎯 Roadmap Overview
 
-### Current Progress: **0 / 100** Problems Solved
+### Current Progress: **4 / 100** Problems Solved
 
 | Topic                   | Problems Solved | Total Problems |
 |-------------------------|-----------------|----------------|
-| Arrays & Strings        | ✅3               | 11             |
+| Arrays & Strings        | ✅4               | 11             |
 | Hashmaps & Sets         | 0               | 10             |
 | Two Pointers            | 0               | 7              |
 | Stacks                  | 0               | 5              |
@@ -59,6 +59,10 @@ I will also Share insights, solutions, and other topics like AI and ML on my tel
 ![image](https://github.com/user-attachments/assets/b99b8750-8511-4f6c-b746-2c0620a673d3)
 
 - [✅] Problem 3:  #13 Roman to Numbers
+
+![image](https://github.com/user-attachments/assets/e07ae1ad-5246-4407-8b32-cd930a06bed0)
+
+- [✅] Problem 4:  #48 Rotate Image
 
 ![image](https://github.com/user-attachments/assets/e07ae1ad-5246-4407-8b32-cd930a06bed0)
 
