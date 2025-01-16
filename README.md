@@ -60,7 +60,8 @@ I will also Share insights, solutions, and other topics like AI and ML on my tel
 
 - [✅] Problem 3:  #13 Roman to Numbers
 
-![image](https://github.com/user-attachments/assets/b99b8750-8511-4f6c-b746-2c0620a673d3)
+![image](https://github.com/user-attachments/assets/e07ae1ad-5246-4407-8b32-cd930a06bed0)
+
 
 
 ## 📈 Continuous Updates
